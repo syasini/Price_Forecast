@@ -6,8 +6,8 @@ In order to use the library, clone it locally and install the setup
 .py file.
  
  ```bash
-git clone github.com/syasini/Gold_Silver_Forecast
-cd Gold_silver_Forecast 
+git clone github.com/syasini/Price_Forecast
+cd Price_Forecast 
 ```
  
  If you are a conda user create a new enironment using the
@@ -15,8 +15,8 @@ cd Gold_silver_Forecast
 
 
 ```bash
-conda env create -n gold_silver python=3.7
-conda activate gold_silver
+conda env create -n price_forecast python=3.7
+conda activate price_forecast
 pip install -e .
 ``` 
 
