@@ -1,4 +1,4 @@
-# Gold & Silver Price Forecast
+# Commodity Price Forecast
 
 ## Installation
 
